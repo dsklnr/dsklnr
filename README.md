@@ -8,7 +8,7 @@
 - <b>Java Applications</b>
   - [Inventory Management System](https://github.com/dsklnr/Inventory_System)
 - <b>Web Development (HTML, CCS, and JavaScript)</b>
-  - [Wasteland Mixed Drinks Website](http://wastelandmixeddrinks.com/) <b><i>(Optimized for mobile users)</b></i>
+  - [Wasteland Mixed Drinks Website](http://wastelandmixeddrinks.com/) <b><i>(optimized for mobile users)</b></i>
 
 <!--
 <h2> 🤳 Connect with me:</h2>
