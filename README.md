@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Data Structures and Algorithms</b>
+  - [Python](https://github.com/dsklnr/Data_Structures_and_Algorithms/tree/master/Python)
+  - [Java](https://github.com/dsklnr/Data_Structures_and_Algorithms/tree/master/Java)
 - <b>Java and SQL Applications</b>
   - [Healthcare CRM](https://github.com/dsklnr/Healthcare_CRM_Application)
   - [College Degree Tracker Android App](https://github.com/dsklnr/College_Degree_Tracker)
