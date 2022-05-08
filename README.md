@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! <br/><a>Programmer, </a><a>Leader </a><b><i><a href="https://www.nsls.org/about/">(Presidentail Member of NSLS)</a></b></i></h1>
+<h1>Hi, I'm Ben! <br/><a>Programmer, </a><a>Leader </a><b><i><a href="https://www.nsls.org/about/">(Presidential Member of NSLS)</a></b></i></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
