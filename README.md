@@ -7,7 +7,7 @@
 - <b>SQL Practice</b>
   -[MySQL]()
 
-<h2>💻 Software Development Projects:</h2>
+<h2>💻 Software Engineering Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Python](https://github.com/dsklnr/Data_Structures_and_Algorithms/tree/master/Python)
