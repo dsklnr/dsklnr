@@ -5,7 +5,7 @@
 - <b>ETL Pipelines</b>
 
 - <b>SQL Practice</b>
-  - [MySQL](https://github.com/dsklnr/Data_Structures_and_Algorithms/tree/master/Python)
+  - [MySQL](https://github.com/dsklnr/SQL_Practice/tree/master)
 
 <h2>💻 Software Engineering Projects:</h2>
 
