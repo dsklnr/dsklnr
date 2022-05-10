@@ -4,7 +4,7 @@
 
 - <b>ETL Pipelines</b>
 
-- <b>SQL Practice</b>
+- <b>Database Query Practice</b>
   - [MySQL](https://github.com/dsklnr/SQL_Practice/tree/master)
 
 <h2>💻 Software Engineering Projects:</h2>
