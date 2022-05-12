@@ -3,7 +3,7 @@
 <h2>📲 Data Engineering Projects:</h2>
 
 - <b>ETL Pipelines</b>
-  - [Python/Pandas ETL Pipeline](https://github.com/dsklnr/Spotify_Recently_Played_ETL_Pipeline/tree/master)
+  - [Spotify ETL Pipeline](https://github.com/dsklnr/Spotify_Recently_Played_ETL_Pipeline/tree/master)
 
 - <b>Database Query Practice</b>
   - [MySQL](https://github.com/dsklnr/SQL_Practice/tree/master)
