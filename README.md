@@ -2,7 +2,8 @@
 
 <h2>Data Science Projects</h2>
 
-- [Washington Real Estate Analysis](https://github.com/dsklnr/Washington_Real_Estate)
+- <b>Real Estate Analysis</b>
+  - [Washington Real Estate Analysis](https://github.com/dsklnr/Washington_Real_Estate)
 
 <h2>📲 Data Engineering Projects:</h2>
 
